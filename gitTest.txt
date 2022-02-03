@@ -1,5 +1,5 @@
 12345678910
-abcdefghijklmnopqrstuvwsyz
+신입생
 컨트롤 + s : 저장키 
 컨트롤 + ~ : 터미널 열기 단축기
 git init : 해당폴더를 git에서 관리하는 폴더를 만들어준다
