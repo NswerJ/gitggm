@@ -5,3 +5,4 @@ abcdefghijklmnopqrstuvwsyz
 git init : 해당폴더를 git에서 관리하는 폴더를 만들어준다
 git status : 현재소스 관리상태를 알려준다
 git add gitTest.txt
+git commit -m "최초커밋"
