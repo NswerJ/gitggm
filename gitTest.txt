@@ -4,3 +4,4 @@ abcdefghijklmnopqrstuvwsyz
 컨트롤 + ~ : 터미널 열기 단축기
 git init : 해당폴더를 git에서 관리하는 폴더를 만들어준다
 git status : 현재소스 관리상태를 알려준다
+git add gitTest.txt
